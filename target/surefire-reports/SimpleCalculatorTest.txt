@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: Driver.VehicleTest
+Test set: SimpleCalculatorTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.048 s - in Driver.VehicleTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in SimpleCalculatorTest
