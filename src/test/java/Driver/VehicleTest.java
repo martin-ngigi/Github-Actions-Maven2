@@ -32,6 +32,6 @@ public class VehicleTest {
 
     private void thenOdometerIncreasesBy100AndGallonsOfGasDecreasesBy5() {
         assertEquals(10, vehicle.getGallonsOfGas());
-        assertEquals(105, vehicle.getOdometer()); //Collect one should be 100
+        assertEquals(100, vehicle.getOdometer()); //Collect one should be 100
     }
 }
