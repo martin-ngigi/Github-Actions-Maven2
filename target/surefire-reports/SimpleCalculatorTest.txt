@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: SimpleCalculatorTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in SimpleCalculatorTest
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.016 s <<< FAILURE! - in SimpleCalculatorTest
+calSumTest  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <10> but was: <5>
+	at SimpleCalculatorTest.calSumTest(SimpleCalculatorTest.java:10)
+

@@ -7,7 +7,7 @@ class SimpleCalculatorTest {
     public void calSumTest(){
         SimpleCalculator calculator = new SimpleCalculator();
         int calc = calculator.calcSum(2,3);
-        assertEquals(5,calc ); //This Test Should Pass since 2+3 equals to 3
+        assertEquals(10,calc ); //This Test Should Pass since 2+3 equals to 3
         //To test on the terminal... RUn the following command:
         //      mvn clean test
     }
